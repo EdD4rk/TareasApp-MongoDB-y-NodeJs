@@ -26,6 +26,6 @@ npm i
 npm run dev # run in development mode
 npm start # run in production mode
 ```
-* Ahora puedes visitar: <a target="_blank" href="http://localhost:4000">http://localhost:3000</a>
+* Ahora puedes visitar: <a target="_blank" href="http://localhost:4000">http://localhost:4000</a>
 
 Además, la aplicación permite a los usuarios registrarse, iniciar sesión y cerrar sesión para gestionar su lista de tareas de manera personalizada. Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en un entorno de desarrollo web moderno.
