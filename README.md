@@ -1,11 +1,8 @@
 # Tareas App!
 
-Tareas App es una aplicación CRUD desarrollada con Node.js, Express, MongoDB y JavaScript.
-Su objetivo principal es gestionar tareas mediante operaciones básicas de creación, lectura, actualización y eliminación.
-Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, 
-en el contexto de un entorno de desarrollo web moderno. 
+Tareas App es una aplicación CRUD desarrollada con Node.js, Express, MongoDB y JavaScript. Su objetivo principal es gestionar tareas mediante operaciones básicas de creación, lectura, actualización y eliminación. Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en el contexto de un entorno de desarrollo web moderno. 
 
-![](docs/screenshot.png)
+![](docs/ScreenshotTareasApp.png)
 
 Con esta Aplicacion pondemos hacer:
 
@@ -31,5 +28,4 @@ npm start # run in production mode
 ```
 * Ahora puedes visitar: <a target="_blank" href="http://localhost:4000">http://localhost:3000</a>
 
-Además, la aplicación permite a los usuarios registrarse, iniciar sesión y cerrar sesión para gestionar su lista de tareas de manera personalizada.
-Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en un entorno de desarrollo web moderno.
+Además, la aplicación permite a los usuarios registrarse, iniciar sesión y cerrar sesión para gestionar su lista de tareas de manera personalizada. Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en un entorno de desarrollo web moderno.
