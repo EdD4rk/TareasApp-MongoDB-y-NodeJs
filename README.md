@@ -4,7 +4,7 @@ Tareas App es una aplicación CRUD desarrollada con Node.js, Express, MongoDB y 
 
 ![](docs/ScreenshotTareasApp.png)
 
-Con esta Aplicacion pondemos hacer:
+### Con esta Aplicacion pondemos hacer:
 
 ```bash
 ☑ Registrarse, iniciar sesión y cerrar sesión
@@ -28,7 +28,7 @@ npm start # run in production mode
 ```
 * Ahora puedes visitar: <a target="_blank" href="http://localhost:4000">http://localhost:4000</a>
 
-Esta aplicación necesita las siguientes variables de entorno:
+### Esta aplicación necesita las siguientes variables de entorno:
 
 - `MONGODB_URI` esta es la cadena URI de Mongodb.
 - `PORT` el puerto http del servidor para la aplicación.
