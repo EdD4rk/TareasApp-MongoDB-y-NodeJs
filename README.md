@@ -21,7 +21,7 @@ Tareas App es una aplicación CRUD desarrollada con Node.js, Express, MongoDB y 
 
 ```sh
 git clone https://github.com/EdD4rk/TareasApp-MongoDB-y-NodeJs.git
-cd nodejs-notes-app
+cd TareasApp-MongoDB-y-NodeJs
 npm i
 npm run dev # run in development mode
 npm start # run in production mode
